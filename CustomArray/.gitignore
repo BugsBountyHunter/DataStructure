@@ -1,0 +1,6 @@
+# macOS Files
+.DS_Store
+# project files
+.idea
+out
+CustomArray.iml
